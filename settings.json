@@ -8,8 +8,8 @@
   "server": {
     "ip": "aboba.aternos.me",
     "port": 30239,
-    "version": "",
-    "try-creative": false
+    "version": "1.20.1",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
